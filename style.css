@@ -1,5 +1,14 @@
 @import url("https://fonts.googleapis.com/css2?family=SUSE:wght@100..800&display=swap");
 
+
+video{
+  opacity: 0.42;
+}
+
+::-webkit-scrollbar{
+  display: none;
+}
+
 body,
 html {
   margin: 0;
