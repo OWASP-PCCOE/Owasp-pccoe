@@ -171,9 +171,6 @@ footer {
   background-color: rgb(101, 99, 104);
 }
 @media (max-width: 900px) {
-  footer {
-    /* flex-direction: column; */
-  }
   .icons {
     justify-content: center;
   }
